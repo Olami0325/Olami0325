@@ -5,8 +5,8 @@
 
 I'm a passionate **Front-end Developer** with a love for tackling **complex problems**, learning new **skills**, and **collaborating** with diverse teams to create **innovative solutions**.
 
- 🌱 I'm a learner of ALX Software Engineering program with a focus  becoming a proficient **Front-end Developer**
-**I'm currently working on my personal website**
+ 🌱 I'm a learner of ALX Software Engineering program with a focus  becoming a proficient **Front-end Developer.**
+**I'm currently working on my personal website.**
 
 🌍 Languages: **HTML, CSS, Javasript**
 
