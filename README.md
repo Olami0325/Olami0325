@@ -1,17 +1,10 @@
 # Hi there, I'm Saheed Yusuf! 👋
-
+# A Passionate Software Engineer and ALX Software Engineering Learner
 
 ## About Me 🚀
 
 I'm a passionate front-end developer with expertise in building responsive and interactive web applications using React. With a strong foundation in JavaScript, HTML, and CSS, I create engaging user experiences that solve real-world problems.
 
-
- 🌱 I'm a learner of ALX Software Engineering program with a focus  becoming a proficient **Front-end Developer.**
-**I'm currently working on my personal website.**
-
-🌍 Languages: **HTML, CSS, Javasript**
-
-📫 How to reach me: **oladimejisaeed@gmail.com**
 
 ⚡ Fun fact: **When I'm not coding, I love exploring new tech trends and experimenting with innovative ideas!**
 **
