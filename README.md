@@ -6,9 +6,6 @@ A Passionate Software Engineer and ALX Software Engineering Learner
 I'm a passionate front-end developer with expertise in building responsive and interactive web applications using React. With a strong foundation in JavaScript, HTML, and CSS, I create engaging user experiences that solve real-world problems.
 
 
-# ⚡ Fun fact: When I'm not coding, I love exploring new tech trends and experimenting with innovative ideas!
-
-
 ## My Skills 🧠
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
