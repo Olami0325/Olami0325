@@ -7,8 +7,11 @@ I'm a passionate **Front-end Developer** with a love for tackling **complex prob
 
  🌱 I'm a learner of ALX Software Engineering program with a focus  becoming a proficient **Front-end Developer**
 🔭 Working on: **I'm currently working on my personal website**
+
 🌍 Languages: **HTML, CSS, Javasript**
+
 📫 How to reach me: **oladimejisaeed@gmail.com**
+
 ⚡ Fun fact: **When I'm not coding, I love exploring new tech trends and experimenting with innovative ideas!**
 **
 
@@ -45,8 +48,10 @@ I'm a passionate **Front-end Developer** with a love for tackling **complex prob
 
 
 ## Get in Touch 📬
- **Personal Website**(coming soon)
- **LinkedIn**(www.linkedin.com/in/saheed-yusuf-ba7171174)
-**Twitter**(@saeedYusuf60445)
+ **Personal Website** (coming soon)
+
+ **LinkedIn** (www.linkedin.com/in/saheed-yusuf-ba7171174)
+
+**Twitter** (@saeedYusuf60445)
 
 
