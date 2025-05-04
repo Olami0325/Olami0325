@@ -37,6 +37,20 @@ Core Competencies:
 
 🚧 Embarking on my software engineering journey! Stay tuned for upcoming projects, learning experiences, and growth milestones."
 
+
+My Vision
+🔭 *My Vision*
+As a passionate front-end developer, I aim to craft engaging, user-centric interfaces that drive meaningful interactions and experiences. I’m focused on building responsive, accessible, and performant web applications that solve real-world problems. My goal is to contribute to projects that make a positive impact, particularly in areas like:
+
+💻 *E-commerce platforms*
+🎓 *Educational web tools*
+🏥  *Health tech applications*
+📈 *Productivity applications*
+
+
+I’m excited to collaborate on projects that challenge me, push the boundaries of front-end development, and create value for users. Let’s build something amazing together!
+
+
 Let's Connect 🤝
 I'm always open to collaborating on interesting projects or discussing front-end development.
 
