@@ -27,7 +27,7 @@ I'm a passionate front-end developer with expertise in building responsive and i
 
 ## Featured Projects 💻
 
-🚧 Embarking on my software engineering journey! Stay tuned for upcoming projects, learning experiences, and growth milestones."
+🚧 Embarking on my software engineering journey! Stay tuned for upcoming projects, learning experiences, and growth milestones.
 
 
 
