@@ -1,5 +1,4 @@
-# Hi there! I'm Saheed Yusuf, A Software Engineer and ALX Software Engineering Learner.
-! 👋 
+# Hi there, I'm Saheed Yusuf! 👋 
 
 ## About Me 🚀
 
