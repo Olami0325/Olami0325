@@ -3,7 +3,8 @@
 
 ## About Me 🚀
 
-I'm a passionate **Front-end Developer** with a love for tackling **complex problems**, learning new **skills**, and **collaborating** with diverse teams to create **innovative solutions**.
+I'm a passionate front-end developer with expertise in building responsive and interactive web applications using React. With a strong foundation in JavaScript, HTML, and CSS, I create engaging user experiences that solve real-world problems.
+
 
  🌱 I'm a learner of ALX Software Engineering program with a focus  becoming a proficient **Front-end Developer.**
 **I'm currently working on my personal website.**
@@ -23,6 +24,14 @@ I'm a passionate **Front-end Developer** with a love for tackling **complex prob
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
+
+Core Competencies:
+- Responsive Web Design
+- User Interface Development
+- State Management (Redux, Context API)
+- Front-end Build Tools (Webpack, Babel)
+- CSS Preprocessors (Sass, Less)
+- UI Component Libraries (Material-UI, Bootstrap, Tailwind CSS)
 
 ## Upcoming Projects 💻
 
@@ -45,12 +54,15 @@ I'm a passionate **Front-end Developer** with a love for tackling **complex prob
 **Blog Platform** is a **content management system** built with **JavaScript, React, Node.js, and MongoDB.** This project demonstrates my ability to **design and develop complex web applications, manage user authentication and authorization, and implement commenting systems.**
 
 
+Let's Connect 🤝
+I'm always open to collaborating on interesting projects or discussing front-end development.
 
 
 ## Get in Touch 📬
- **Personal Website** (coming soon)
 
- **LinkedIn** (www.linkedin.com/in/saheed-yusuf-ba7171174)
+📧 Email:oladimejisaeed@gmail.com
+
+🔗 LinkedIn: [(www.linkedin.com/in/saheed-yusuf-ba7171174)]
 
 **Twitter** (@saeedYusuf60445)
 
