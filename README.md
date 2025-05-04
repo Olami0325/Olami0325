@@ -33,26 +33,9 @@ Core Competencies:
 - CSS Preprocessors (Sass, Less)
 - UI Component Libraries (Material-UI, Bootstrap, Tailwind CSS)
 
-## Upcoming Projects 💻
+## Featured Projects 💻
 
-**Project 1 : Personal Website**
-
-**Personal website** is a **professional online presence** built with **[HTML5, CSS3, JavaScript and React
-]**. This project demonstrates my ability to **design and develop responsive web applications, implement SEO best practices, and create engaging user experiences.**
-
-**Project 2: Weather App**
-
-**Weather App** is a **real-time weather application** built with **JavaScript, React, RESTful APIs, and CSS3.**. This project demostrates my ability to **integrate APIs, handle asynchronous data, and design user-friendly interfaces for displaying complex data.
-**. 
-
-**Project 3: E-commerce Website**
-
-**E-commerce webaite** is a **full-stack online shopping platform** built with **JavaScript, React, Node.js, and MongoDB.**. This project demostrates my ability to **design and develop complex web applications, manage databases, and implement payment gateways and user authentication.**
-
-**Project 4: Blog Platform**
-
-**Blog Platform** is a **content management system** built with **JavaScript, React, Node.js, and MongoDB.** This project demonstrates my ability to **design and develop complex web applications, manage user authentication and authorization, and implement commenting systems.**
-
+🚧 Embarking on my software engineering journey! Stay tuned for upcoming projects, learning experiences, and growth milestones."
 
 Let's Connect 🤝
 I'm always open to collaborating on interesting projects or discussing front-end development.
