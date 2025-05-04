@@ -39,7 +39,7 @@ I'm a passionate front-end developer with expertise in building responsive and i
 
 
 
-## My Vision
+## My Vision 🔭
 
 As a passionate front-end developer, I aim to craft engaging, user-centric interfaces that drive meaningful interactions and experiences. I’m focused on building responsive, accessible, and performant web applications that solve real-world problems. My goal is to contribute to projects that make a positive impact, particularly in areas like:
 
