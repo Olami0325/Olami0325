@@ -55,11 +55,15 @@ As a passionate front-end developer, I aim to craft engaging, user-centric inter
 I’m excited to collaborate on projects that challenge me, push the boundaries of front-end development, and create value for users. Let’s build something amazing together!
 
 
-Let's Connect 🤝
+## Let's Connect 🤝
 I'm always open to collaborating on interesting projects or discussing front-end development.
 
 
 ## Get in Touch 📬
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-important)](https://sites.google.com/view/saheedyusuf/home?authuser=0)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/saheed-yusuf-ba7171174)
+[![Email](https://img.shields.io/badge/-Email-red)](mailto:oladimejisaeed@gmail.com)
 
 📧 Email:oladimejisaeed@gmail.com
 
