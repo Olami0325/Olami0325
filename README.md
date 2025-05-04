@@ -62,13 +62,11 @@ I'm always open to collaborating on interesting projects or discussing front-end
 ## Get in Touch 📬
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-important)](https://sites.google.com/view/saheedyusuf/home?authuser=0)
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/saheed-yusuf-ba7171174)
+
 [![Email](https://img.shields.io/badge/-Email-red)](mailto:oladimejisaeed@gmail.com)
 
-📧 Email:oladimejisaeed@gmail.com
 
-🔗 LinkedIn: [(www.linkedin.com/in/saheed-yusuf-ba7171174)]
-
-**Twitter** (@saeedYusuf60445)
 
 
